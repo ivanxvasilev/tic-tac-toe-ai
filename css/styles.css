@@ -1,0 +1,42 @@
+body {
+  font-family: 'Lilita One', cursive;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 54px;
+}
+
+#turnInfo {
+  text-align: center;
+  width: 100%;
+  margin: 50px 0;
+  font-size: 40px;
+}
+
+#gameSection {
+  font-size: 0;
+  margin: 20px auto;
+  background-image: url("../img/board2.png");
+  background-size: cover;
+  width: 270px;
+  height: 270px;
+}
+
+img {
+  margin: 13px 13px; 
+  width: 64px;
+  height: 64px;
+}
+
+#buttonHolder {
+  text-align: center;
+}
+
+button {
+  height: 75px;
+  width: 150px;
+  font-size: 26px;
+  font-family: 'Lilita One', cursive;
+}
